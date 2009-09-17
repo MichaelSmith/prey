@@ -1,4 +1,5 @@
 -- Unversioned
++Added control panel updating of config.ini changed script Prey/platform/windows –Michael Smith
 + Added  delay file for Windows config.ini to/distribution/windows --Michael Smith
 + Added new file yerp.exe to /distribution/windows --Michael Smith
 + Fixed email error message not appearing. -- Tomas
